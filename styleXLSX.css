@@ -1,0 +1,27 @@
+.tableStyle {
+    width: 100%;
+}
+body {
+    font-family: monospace;
+}
+
+.dataTables_filter input {
+    border-radius: 10px;
+    border-color: red;
+}
+
+.paginate_button.current {
+    border-radius: 20px!important;
+}
+
+#tableFromJson_length{
+    color: red;
+}
+
+tr.even td {
+    background-color: white;
+}
+
+tr.odd td {
+    background-color: green;
+}
