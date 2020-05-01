@@ -2,7 +2,11 @@
     width: 100%;
 }
 body {
-    font-family: monospace;
+    font-family: ProximaNova, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    
 }
 
 .dataTables_filter input {
